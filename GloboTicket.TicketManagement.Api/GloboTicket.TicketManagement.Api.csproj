@@ -10,6 +10,8 @@
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
+		<PackageReference Include="moq" Version="4.16.1" />
+		<PackageReference Include="shouldly" Version="4.0.3" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
 		<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.1.4" />
 	</ItemGroup>
